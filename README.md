@@ -22,7 +22,7 @@
 ---
 
 ## 📬 **Let's Connect!**
-- 🌐 **Portfolio:** [Portfolio]([https://#](https://692414023100b6351975b2dd--comforting-wisp-1efe56.netlify.app))
+- 🌐 **Portfolio:** [Portfolio](https://692414023100b6351975b2dd--comforting-wisp-1efe56.netlify.app)
 - 📧 **Email:** [mohitkdb@gmail.com](mailto:mohitkdb@gmail.com)
 - 🔗 **LinkedIn:** [mohitdubey3](https://linkedin.com/in/mohitdubey3)
 - 🏗 **GitHub:** [github.com/mohitdubey3](https://github.com/mohitdubey3)
