@@ -8,7 +8,7 @@
 - ✅ C# and .NET (Framework & Core)
 - ✅ ASP.NET Core MVC & Web API
 - ✅ SQL Server, ADO.NET, and Entity Framework
- -✅ Clean coding practices and system design.
+- ✅ Clean coding practices and system design.
 ---
 ## 💻 **Tech Stack**
 <div align="center">
@@ -21,9 +21,9 @@
 ## 🏆 **Achievements**
 - ✔️ Developed **UrbanPalate**, **BlogShare**, **ECommerce App** And more.
 - ✔️Advanced Technical Degree: Completed a Master of Computer Applications (MCA), gaining a deep theoretical and practical understanding of
-     software engineering, data structures, and database management.
+          software engineering, data structures, and database management.
 - ✔️Problem-Solving Excellence: Successfully cleared rigorous technical interviews focused on Object-Oriented Programming (OOP), database optimization,
-     and modern web development patterns.
+          and modern web development patterns.
 - ✔️ Solved **500+ coding challenges**.
 ---
 
