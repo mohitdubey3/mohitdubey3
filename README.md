@@ -5,8 +5,10 @@
 ## 🔥 **About Me**
 ---
 *Highly motivated Full-Stack Developer proficient in the Microsoft tech stack, including C#, ASP.NET Core, React, and SQL Server. Experienced in building Secure and Scalable web applications, with hands-on skill in creating Restful APIs and integrating ASP.NET Identity for robust authentication.*
-- 🎓 Passionate about **ASP.NET Core, SQL Server, and modern web frameworks**.
-- 💬 Ask me about **Web Development, Database, and Algoritm**.
+- ✅ C# and .NET (Framework & Core)
+- ✅ ASP.NET Core MVC & Web API
+- ✅ SQL Server, ADO.NET, and Entity Framework
+ -✅ Clean coding practices and system design.
 ---
 ## 💻 **Tech Stack**
 <div align="center">
@@ -17,7 +19,11 @@
 </div>
 
 ## 🏆 **Achievements**
-- ✔️ Developed **Taste Town Restaurent**, **TechPost WebApp**, **ECommerce App** And .....
+- ✔️ Developed **UrbanPalate**, **BlogShare**, **ECommerce App** And more.
+- ✔️Advanced Technical Degree: Completed a Master of Computer Applications (MCA), gaining a deep theoretical and practical understanding of
+     software engineering, data structures, and database management.
+- ✔️Problem-Solving Excellence: Successfully cleared rigorous technical interviews focused on Object-Oriented Programming (OOP), database optimization,
+     and modern web development patterns.
 - ✔️ Solved **500+ coding challenges**.
 ---
 
