@@ -19,12 +19,12 @@
 </div>
 
 ## 🏆 **Achievements**
-- ✔️ Developed **UrbanPalate**, **BlogShare**, **ECommerce App** And more.
-- ✔️Advanced Technical Degree: Completed a Master of Computer Applications (MCA), gaining a deep theoretical and practical understanding of
-          software engineering, data structures, and database management.
-- ✔️Problem-Solving Excellence: Successfully cleared rigorous technical interviews focused on Object-Oriented Programming (OOP), database optimization,
-          and modern web development patterns.
-- ✔️ Solved **500+ coding challenges**.
+-  Developed **UrbanPalate**, **BlogShare**, **ECommerce App** And more.
+- Advanced Technical Degree: Completed a Master of Computer Applications (MCA), gaining a deep theoretical and practical understanding of
+   software engineering, data structures, and database management.
+- Problem-Solving Excellence: Successfully cleared rigorous technical interviews focused on Object-Oriented Programming (OOP), database optimization,
+   and modern web development patterns.
+-  Solved **500+ coding challenges**.
 ---
 
 ## 📬 **Let's Connect!**
